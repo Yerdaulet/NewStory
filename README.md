@@ -1,0 +1,2 @@
+# NewStory
+Story new
